@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.css"],"names":[],"mappings":"AAAA,kBACE,YAAa,CACb,sBACF","file":"main.62e53412.chunk.css","sourcesContent":[".stopwatch-holder {\n  display: flex;\n  justify-content: center;\n}"]}
