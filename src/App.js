@@ -1,12 +1,17 @@
-
 import './App.css';
+import Buttons from './components/Buttons';
+import Timer from './components/Timer';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-       <h1>Hello world1</h1>
-      </header>
+    <div className="main-section">
+      <div className="stopwatch-holder">
+          <div>
+            <Timer />
+            <Buttons />
+          </div>
+      </div>
+      
     </div>
   );
 }
